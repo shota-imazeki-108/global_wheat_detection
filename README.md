@@ -21,6 +21,7 @@
 
 ## モデル
 - EfficientDet: [こちらから](https://www.kaggle.com/mathurinache/efficientdet)ダウンロードしてください。
+  - [こちら](https://qiita.com/omiita/items/83643f78baabfa210ab1)の記事が簡潔にわかりやすくまとめてくれています。
 
 ## 結果
 - まだ結果待ちだが、ライセンス違反で上位が弾かれてもメダルは厳しそうです。
